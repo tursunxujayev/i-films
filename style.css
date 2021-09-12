@@ -47,6 +47,7 @@ header {
 .navbar {
     background: rgba(0, 0, 0, 0.6);
     padding: 1.2rem;
+    position: fixed;
 }
 
 .navigation {
